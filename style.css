@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    
+}
+
+.asunto {
+    color: white;
+    font-weight: 600;
+}
+
+.marca {
+    color: white;
+    font-weight: 600;
+    font-size: 30px;
+}
+
